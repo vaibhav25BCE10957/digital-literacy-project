@@ -10,7 +10,7 @@ This project is made as part of my role as a Student my course Digital literacy.
 In this digital world, it is important to know about things like online platforms, email communication and cyber safety. This project includes 5 tasks which cover different areas of digital literacy.
 
 ## Repository Structure
-###task-1-presentation
+### task-1-presentation
 This contains my infographic created using Canva. It explains topics like digital literacy, online tools and internet safety in a simple way.
 
 ### task-2-portfolio
