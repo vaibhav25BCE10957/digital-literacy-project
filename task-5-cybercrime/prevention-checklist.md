@@ -1,4 +1,4 @@
-Stay Safe Online – Prevention Tips
+## Stay Safe Online – Prevention Tips
 
 1 Always check website URL before entering any details
 2 Never share OTP with anyone
