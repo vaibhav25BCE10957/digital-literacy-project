@@ -4,7 +4,7 @@ Name: Vaibhav Singhal
 Branch: BTech CSE
 Year: 2025
 
-##Project Overview
+## Project Overview
 This project is made as part of my role as a Student my course Digital literacy. The main aim is to understand how to use digital tools properly and stay safe online.
 
 In this digital world, it is important to know about things like online platforms, email communication and cyber safety. This project includes 5 tasks which cover different areas of digital literacy.
